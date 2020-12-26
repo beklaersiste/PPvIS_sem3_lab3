@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Пользователь\Desktop\sem 3\PPvIS\PPvIS_lab_3\PPvIS_3\PPvIS_3\Source.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\Desktop\sem 3\PPvIS\PPvIS_lab_3\PPvIS_3\PPvIS_3\Source.cpp(169,1): error C2027: использование неопределенного типа "ATM"
+C:\Users\Пользователь\Desktop\sem 3\PPvIS\PPvIS_lab_3\PPvIS_3\PPvIS_3\Source.cpp(118): message : см. объявление "ATM"
+C:\Users\Пользователь\Desktop\sem 3\PPvIS\PPvIS_lab_3\PPvIS_3\PPvIS_3\Source.cpp(375,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
